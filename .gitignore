@@ -12,6 +12,7 @@ Desktop.ini
 # Logs
 *.log
 logs/
+verification/
 
 # Temporary files
 *.tmp

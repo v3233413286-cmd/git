@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="国强农资">
+  <rect width="64" height="64" rx="12" fill="#153f2a"/>
+  <path d="M17 38c13 2 24-5 30-20 2 15-4 27-18 31-7 2-12-2-12-11Z" fill="#f8f4ea"/>
+  <path d="M19 42c8-5 17-12 27-24" stroke="#b45f39" stroke-width="4" stroke-linecap="round"/>
+</svg>
